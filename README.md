@@ -8,6 +8,7 @@ Independent builder in Tokyo shipping **Japanese market microstructure SDKs, Mod
 
 | Product / API | Channel | Description |
 | :--- | :--- | :--- |
+| **[Godot 4 Japanese Tategaki Vertical Novel, Furigana & Showa VHS/PS1 Shaders](https://pecopeko.itch.io/godot-tokyo-horror-shaders-tategaki-pro)** | itch.io (`$0` Lite / `$11` Pro) & Godot AssetLib | JIS X 4051 `禁則処理` vertical `縦書き` + `ルビ` + Manga `フキダシ` + 4 Showa VHS, PS1 Bayer, Anime Halftone & Exit-8 Subway `.gdshader` shaders. |
 | **[Tokyo Visual Novel & Indie Game SFX (40 WAVs) + Kidoku Chat UI](https://pecopeko.itch.io/tokyo-vn-sfx-and-messenger-kit)** | itch.io (`$0` Sample / `$9` Pro) | 40 broadcast-grade `48kHz` Tokyo WAVs (School Chime, Konbini, Fumikiri, Eki-Melo, Higurashi) + `LINE`-style `既読` Smartphone Chat UI for `Ren'Py 8` & `Godot 4`. |
 | **[Tokyo Stock Exchange (TSE) Quant Microstructure Toolkit](https://pecopeko.itch.io/tse-quant-microstructure-kit)** | itch.io (`$19`) | Pure Python 3.11 `Decimal` SDK + Field Guide: TOPIX100/500 sub-yen Arrowhead ticks, all 34 `S-taka`/`S-yasu` daily price limits, `15:30` Closing Itayose session logic & post-2024 alphanumeric tickers. |
 | **[Tokyo "Utawaku" Karaoke Setlist & Pomodoro OBS Suite](https://pecopeko.itch.io/tokyo-utawaku-obs-dock)** | itch.io (`$0` Lite / `$12` Pro) | Bilingual (`EN/JP`) OBS Studio Custom Dock + 6 transparent `1920x1080` VTuber overlays with 1-click YouTube chapter timestamp logging & WebAudio Pomodoro chimes. [Live Demo](https://pecopeko.github.io/obs-utawaku-pomodoro-dock/?lang=en) |
